@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EB516330-F6B5-4936-AE32-8A2FA5FF55F9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F978DA8-DF72-4482-8544-EC6D50E60A3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AboutMeProject/EggTimerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "softEgg"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F56DB864-C706-4F92-8642-AC70DCD0F44A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AboutMeProject/EggTimerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "softEgg"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F56DB864-C706-4F92-8642-AC70DCD0F44A - ed4f1c04099f0600"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AboutMeProject.EggTimerScreen.softEgg.getter : __C.UIButton"
+                  moduleName = "AboutMeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a11/Documents/DevHouseProjects/AboutMeProject/AboutMeProject/EggTimerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "F56DB864-C706-4F92-8642-AC70DCD0F44A - a5d7d63ace726e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIButton in AboutMeProject.EggTimerScreen.softEgg.getter : __C.UIButton"
+                  moduleName = "AboutMeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a11/Documents/DevHouseProjects/AboutMeProject/AboutMeProject/EggTimerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
